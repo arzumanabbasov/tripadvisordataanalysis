@@ -1,4 +1,4 @@
-floium
+folium
 plotly
 streamlit
 openpyxl
